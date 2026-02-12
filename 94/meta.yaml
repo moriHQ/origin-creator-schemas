@@ -72,6 +72,10 @@ props:
         desc: A short description of what your pack does, about one sentence long.
         ext: true
         gap: true
+    min_format:
+        type: integer
+    max_format:
+        type: integer
     license:
         type: string
         desc: |
