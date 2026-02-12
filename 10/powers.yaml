@@ -3978,11 +3978,9 @@ links:
                 type: string
                 ext: true
             components:
-                desc: Item components for 1.20.5+ / 1.21+. Replaces legacy NBT tag.
-                type: object
+                desc: NBT data of the item (NEO FOR 1.20.5+).
+                type: string
                 ext: true
-                gap: true
-
     pos_item_stack:
         extend: item_stack
         props:
