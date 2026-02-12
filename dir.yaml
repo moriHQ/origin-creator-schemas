@@ -54,3 +54,10 @@ $: 156
   - origin_layers
   - loot_tables
   - item_modifiers
+NEO FORMAT [1.21+]:
+  - meta
+  - powers
+  - origins
+  - origin_layers
+  - loot_tables
+  - item_modifiers
