@@ -4652,8 +4652,7 @@ links:
                 ext: true
             components:
                 desc: NBT data of the item (NEO FOR 1.20.5+).
-                type: string
-                props:
+                type: text
                 ext: true
     pos_item_stack:
         extend: item_stack
