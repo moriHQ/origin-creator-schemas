@@ -3974,7 +3974,7 @@ links:
                 type: integer
                 min: 1
             tag:
-                desc: NBT data of the itemr.
+                desc: NBT data of the item.
                 type: string
                 ext: true
             components:
