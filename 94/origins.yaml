@@ -22,10 +22,8 @@ props:
         gap: true
     components:
         desc: Item components (Minecraft 1.20.5+). Use this instead of tag for glint/enchantments/custom_name, etc.
-        type: object
-        large: true
+        type: string
         ext: true
-
     upgrades:
         desc: A list of upgrades for this origin, specifying which advancements turn this origin into which other origin.
         type: list
