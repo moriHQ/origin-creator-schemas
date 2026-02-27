@@ -4652,7 +4652,7 @@ links:
                 ext: true
             components:
                 desc: Data components of the item (1.20.5+). Keys are component IDs like minecraft:enchantment_glint_override.
-                type: String
+                type: strings
                 ext: true
     pos_item_stack:
         extend: item_stack
